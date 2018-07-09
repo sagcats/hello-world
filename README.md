@@ -5,6 +5,14 @@
 #
 # What I would like to know is how this all is going to work?
 #
-# Now let' try to mess things up a bit
-# My birthday: April 24, 1953
+# Now let' try to mess things up a bit (BIG TIME)
+# LIKE ADD SOME PSUEDO-CODE
+<pre>
+def myfunc(param1, param2)
+   if param1 != param2
+      return true
+   else
+      return false
+</pre>
+# My age: 65
 # EOF
